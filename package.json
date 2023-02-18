@@ -10,7 +10,7 @@
     "license": "LICENSE.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Gydunhn/VSC-Essentials.git"
+        "url": "https://github.com/Gydunhn/VSC-Essentials-Core.git"
     },
     "keywords": [
         "VSC",
