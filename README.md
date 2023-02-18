@@ -6,10 +6,7 @@ This extension pack for Visual Studio Code adds extensions that are convenient a
 
 This **Detailed** version of the extension pack is for a series of very specific projects in which I am currently involved; projects with multiple repositories that share the same stack of technologies transversally.
 
-<!-- FIXME: se debe arreglar el manejo de la imagen -->
-<!-- TODO: debe estan en Cloud y no asociado al Repositorio.  -->
-
-![Preview](https://raw.githubusercontent.com/Gydunhn/VSC-Essentials-Core/versions/v2/img/TODOsAndComments.png?token=GHSAT0AAAAAAB6ZNF7TAJFP5RP5ZHZI4GYGY7QIO4A)
+![Preview](https://firebasestorage.googleapis.com/v0/b/vsc-essentials.appspot.com/o/VSC-Essentials-Core%2FVSC-Essentials-Core-Preview.png?alt=media&token=2a85a17f-bf06-4d68-8b6a-cee289451515)
 
 ## Reasons
 
