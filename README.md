@@ -91,6 +91,7 @@ It is imperative that the settings be added to settings.json, inside the ".vscod
 ## Note
 
 This extension pack was made from their original [VSC Essentials], which you can find [here]
+[This extension] can be found at [open-vsx.org] as well.
 
 ## Included
 
@@ -104,3 +105,5 @@ This **Basic** Core extension pack includes the following extensions:
 
 [vsc essentials]: https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials
 [here]: https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials
+[This extension]: https://open-vsx.org/extension/Gydunhn/vsc-essentials-core
+[open-vsx.org]: https://open-vsx.org/
