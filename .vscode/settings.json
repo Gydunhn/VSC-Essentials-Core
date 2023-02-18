@@ -1,6 +1,6 @@
 {
     /**
-     * * VSCode Core Detailed Config
+     * Core Basic VSC Essentials Config
      */
     "extensions.ignoreRecommendations": true,
     "editor.tabCompletion": "on",
@@ -68,5 +68,130 @@
         "MD010": false,
         "MD024": false,
         "MD025": false
-    }
+    },
+    /**
+     * * Core Detailed VSC Essentials Config
+     */
+    "todo-tree.tree.showCountsInTree": true,
+    "todo-tree.general.statusBar": "top three",
+    "todo-tree.general.showIconsInsteadOfTagsInStatusBar": true,
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "FIXIT",
+        "FIX",
+        "BUG"
+    ],
+    "todo-tree.general.tagGroups": {
+        "FIXME": [
+            "FIXME",
+            "FIXIT",
+            "FIX",
+            "BUG",
+        ]
+    },
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "gutterIcon": true,
+            "icon": "tasklist",
+            "iconColour": "#FF8C00",
+            "type": "tag",
+            "background": "#CF7200",
+            "foreground": "#FFFFFF",
+            "fontWeight": "bold"
+        },
+        "FIXME": {
+            "gutterIcon": true,
+            "icon": "tools",
+            "iconColour": "#00FF00",
+            "type": "tag",
+            "background": "#008000",
+            "foreground": "#FFFF00",
+            "fontWeight": "bold"
+        }
+    },
+    "better-comments.multilineComments": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "fixme",
+            "color": "#008000",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "fixit",
+            "color": "#008000",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "fix",
+            "color": "#008000",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "bug",
+            "color": "#008000",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        }
+    ]
 }
