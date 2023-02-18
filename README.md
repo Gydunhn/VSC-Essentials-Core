@@ -6,10 +6,7 @@ This extension pack for Visual Studio Code adds extensions that are convenient a
 
 This **Detailed** version of the extension pack is for a series of very specific projects in which I am currently involved; projects with multiple repositories that share the same stack of technologies transversally.  
 
-<!-- Ugly & Dirty ![Preview](./img/TODOsAndComments.png) But Working -->
-<p align="center">
-    <img src="./img/TODOsAndComments.png" alt="VSC Essentials Preview"/>
-</p>
+![Preview](https://raw.githubusercontent.com/Gydunhn/VSC-Essentials-Core/versions/v2/img/TODOsAndComments.png?token=GHSAT0AAAAAAB6ZNF7TAJFP5RP5ZHZI4GYGY7QIO4A)
 
 ## Reasons
 
