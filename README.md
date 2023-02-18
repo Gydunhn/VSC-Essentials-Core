@@ -4,7 +4,10 @@
 
 This extension pack for Visual Studio Code adds extensions that are convenient and useful for any development (regardless of language). I reserve the right to update the content of the extension pack at my own discretion.
 
-This **Detailed** version of the extension pack is for a series of very specific projects in which I am currently involved; projects with multiple repositories that share the same stack of technologies transversally.  
+This **Detailed** version of the extension pack is for a series of very specific projects in which I am currently involved; projects with multiple repositories that share the same stack of technologies transversally.
+
+<!-- FIXME: se debe arreglar el manejo de la imagen -->
+<!-- TODO: debe estan en Cloud y no asociado al Repositorio.  -->
 
 ![Preview](https://raw.githubusercontent.com/Gydunhn/VSC-Essentials-Core/versions/v2/img/TODOsAndComments.png?token=GHSAT0AAAAAAB6ZNF7TAJFP5RP5ZHZI4GYGY7QIO4A)
 
