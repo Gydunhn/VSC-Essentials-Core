@@ -7,7 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2020-04-25
+## [0.0.2] - 2023-02-17
+
+### Added
+
+* Todo Tree, By Gruntfuggly.
+* Git Graph, By mhutchie.
+* Terminal in Status Bar, By flyfly6.
+* Better Comments, By Aaron Bond.
+
+## [0.0.1] - 2023-02-17
 
 ### Added
 

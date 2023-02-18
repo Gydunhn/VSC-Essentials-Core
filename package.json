@@ -17,17 +17,27 @@
         "VSCode",
         "VSC Essentials",
         "Essentials",
+        "Essenziali",
+        "Essentielles",
         "indent",
         "Format",
         "Formatting",
         "Lint",
+        "XML",
+        "TODO",
+        "Todo Tree",
         "Markdown",
         "markdownlint",
         "Markdown All in One",
-        "Gydunhn",
-        "Elite"
+        "Terminal",
+        "Status Bar",
+        "Git Graph",
+        "Better",
+        "Comments",
+        "Better Comments",
+        "Gydunhn"
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -38,6 +48,10 @@
     "extensionPack": [
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
-        "DotJoshJohnson.xml"
+        "DotJoshJohnson.xml",
+        "Gruntfuggly.todo-tree",
+        "mhutchie.git-graph",
+        "flyfly6.terminal-in-status-bar",
+        "aaron-bond.better-comments"
     ]
 }

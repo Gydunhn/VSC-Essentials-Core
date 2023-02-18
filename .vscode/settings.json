@@ -1,6 +1,6 @@
 {
     /**
-     * * VSCode Basic Config
+     * * VSCode Core Detailed Config
      */
     "extensions.ignoreRecommendations": true,
     "editor.tabCompletion": "on",
