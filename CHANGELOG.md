@@ -7,7 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2023-02-18
+## [0.1.1] - 2023-02-18
+
+### Added
+
+* Format in context menus, By lacroixdavid1.
+
+### Changed
+
+* Versioning numbers are changed to better meet the needs of this particular project.
+
+## [0.1.0] - 2023-02-18
 
 ### Added
 

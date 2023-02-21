@@ -38,6 +38,7 @@
     "extensionPack": [
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
-        "DotJoshJohnson.xml"
+        "DotJoshJohnson.xml",
+        "lacroixdavid1.vscode-format-context-menu"
     ]
 }
