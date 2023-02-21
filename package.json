@@ -37,7 +37,7 @@
         "Better Comments",
         "Gydunhn"
     ],
-    "version": "0.1.1",
+    "version": "0.2.1",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
