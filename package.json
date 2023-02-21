@@ -1,10 +1,10 @@
 {
     "name": "vsc-essentials-core",
     "displayName": "VSC-Essentials-Core",
-    "description": "Language agnostic, The Essential extensions (core) for visual studio code",
+    "description": "The Essential extensions (core) for AFP PlanVital Developers",
     "icon": "img/essentials.png",
     "galleryBanner": {
-        "color": "#53595e",
+        "color": "#b42d27",
         "theme": "dark"
     },
     "license": "LICENSE.md",
@@ -24,10 +24,13 @@
         "Markdown",
         "markdownlint",
         "Markdown All in One",
-        "Gydunhn",
-        "Elite"
+        "AFP",
+        "PlanVital",
+        "AFP PlanVital",
+        "AFP PlanVital Developers",
+        "GENERALI"
     ],
-    "version": "0.0.1",
+    "version": "0.1.1",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -38,6 +41,7 @@
     "extensionPack": [
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
-        "DotJoshJohnson.xml"
+        "DotJoshJohnson.xml",
+        "lacroixdavid1.vscode-format-context-menu"
     ]
 }
