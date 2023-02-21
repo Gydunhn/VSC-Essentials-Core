@@ -30,7 +30,7 @@
         "AFP PlanVital Developers",
         "GENERALI"
     ],
-    "version": "0.0.1",
+    "version": "0.1.1",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
