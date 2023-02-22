@@ -23,7 +23,12 @@
         "Lint",
         "Markdown",
         "markdownlint",
-        "Markdown All in One"
+        "Markdown All in One",
+        "AFP",
+        "PlanVital",
+        "AFP PlanVital",
+        "AFP PlanVital Developers",
+        "GENERALI"
     ],
     "version": "0.1.1",
     "publisher": "Gydunhn",

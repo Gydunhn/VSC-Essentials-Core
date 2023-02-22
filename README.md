@@ -1,4 +1,4 @@
-# VSC Essentials Core - Pack for Developers
+# VSC Essentials Core - Pack for AFP PlanVital Developers
 
 [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/Gydunhn.vsc-essentials-core?icon=visualstudio&color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-core) [![Installs](https://flat.badgen.net/vs-marketplace/i/Gydunhn.vsc-essentials-core?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-core) [![Downloads](https://flat.badgen.net/vs-marketplace/d/Gydunhn.vsc-essentials-core?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-core) [![Rating](https://flat.badgen.net/vs-marketplace/rating/Gydunhn.vsc-essentials-core?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.vsc-essentials-core)
 
@@ -90,7 +90,7 @@ It is imperative that the settings be added to settings.json, inside the ".vscod
 
 ## Note
 
-This extension pack was made from their original [VSC Essentials], which you can find [here].
+This extension pack was made from their original [VSC Essentials], which you can find [here], this is the AFP PlanVital Developers Version.
 [This extension] can be found at [open-vsx.org] as well.
 
 ## Included
