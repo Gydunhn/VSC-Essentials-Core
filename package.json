@@ -10,22 +10,34 @@
     "license": "LICENSE.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Gydunhn/VSC-Essentials.git"
+        "url": "https://github.com/Gydunhn/VSC-Essentials-Core.git"
     },
     "keywords": [
         "VSC",
         "VSCode",
         "VSC Essentials",
         "Essentials",
+        "Essenziali",
+        "Essentielles",
         "indent",
         "Format",
         "Formatting",
         "Lint",
+        "XML",
+        "TODO",
+        "Todo Tree",
         "Markdown",
         "markdownlint",
-        "Markdown All in One"
+        "Markdown All in One",
+        "Terminal",
+        "Status Bar",
+        "Git Graph",
+        "Better",
+        "Comments",
+        "Better Comments",
+        "Gydunhn"
     ],
-    "version": "0.1.1",
+    "version": "0.2.1",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -37,6 +49,10 @@
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
         "DotJoshJohnson.xml",
-        "lacroixdavid1.vscode-format-context-menu"
+        "lacroixdavid1.vscode-format-context-menu",
+        "Gruntfuggly.todo-tree",
+        "mhutchie.git-graph",
+        "flyfly6.terminal-in-status-bar",
+        "aaron-bond.better-comments"
     ]
 }

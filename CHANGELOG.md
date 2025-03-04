@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2023-02-21
+
+### Added
+
+* Changes from version 0.1.1 to 0.2.0 are updated to be as 0.2.1
+
 ## [0.1.1] - 2023-02-21
 
 ### Added
@@ -17,7 +23,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * Versioning numbers are changed to better meet the needs of this particular project.
 
-## [0.1.0] - 2023-02-18
+## [0.2.0] - 2023-02-17
+
+### Added
+
+* Todo Tree, By Gruntfuggly.
+* Git Graph, By mhutchie.
+* Terminal in Status Bar, By flyfly6.
+* Better Comments, By Aaron Bond.
+
+## [0.1.0] - 2023-02-17
 
 ### Added
 
