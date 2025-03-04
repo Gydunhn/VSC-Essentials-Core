@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+* GitLens — Git supercharged, by GitKraken.
+* Git History, by Don Jayamanne.
+* gitignore, by CodeZombie.
+* :emojisense:, by Matt Bierner.
+* Markdown Emoji, by Matt Bierner.
+
 ### Removed
 
 * The Format in context menus extension has been removed due to disuse.
@@ -46,4 +54,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * XML Tools, By Josh Johnson.
 
 [Unreleased]: https://github.com/Gydunhn/VSC-Essentials/tree/develop
-[0.0.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.0.1
+[0.3.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.0
+[0.2.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.2.1
+[0.2.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.2.0
+[0.1.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.1.1
+[0.1.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.1.0

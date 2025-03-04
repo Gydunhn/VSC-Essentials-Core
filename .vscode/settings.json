@@ -193,5 +193,51 @@
             "bold": true,
             "italic": false
         }
-    ]
+    ],
+    "git-graph.commitDetailsView.location": "Docked to Bottom",
+    "git-graph.contextMenuActionsVisibility": {
+        "remoteBranch": {
+            "checkout": false,
+            "cherrypick": false,
+            "createBranch": false,
+            "createPullRequest": false,
+            "delete": false,
+            "drop": false,
+            "merge": false,
+            "pull": false,
+            "rebase": false,
+            "reset": false,
+            "revert": false,
+        },
+        "branch": {
+            "checkout": false,
+            "cherrypick": false,
+            "createBranch": false,
+            "createPullRequest": false,
+            "delete": false,
+            "drop": false,
+            "merge": false,
+            "push": false,
+            "rename": false,
+            "rebase": false,
+            "reset": false,
+            "revert": false,
+        },
+        "commit": {
+            "checkout": false,
+            "cherrypick": false,
+            "createBranch": false,
+            "drop": false,
+            "merge": false,
+            "rebase": false,
+            "reset": false,
+            "revert": false,
+        }
+    },
+    "gitlens.statusBar.enabled": true,
+    "gitlens.statusBar.command": "gitlens.openCommitOnRemote",
+    "gitlens.blame.avatars": true,
+    "gitlens.hovers.avatars": true,
+    "gitlens.hovers.avatarSize": 64,
+    "gitlens.hovers.changesDiff": "hunk",
 }
