@@ -4,7 +4,7 @@
     "description": "The Essential extensions (core) for AFP PlanVital Developers",
     "icon": "img/essentials.png",
     "galleryBanner": {
-        "color": "#b42d27",
+        "color": "#27AEB4",
         "theme": "dark"
     },
     "license": "LICENSE.md",
