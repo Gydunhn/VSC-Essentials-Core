@@ -1,7 +1,7 @@
 {
     "name": "vsc-essentials-core",
     "displayName": "VSC-Essentials-Core",
-    "description": "The Essential extensions (core) for AFP PlanVital Developers",
+    "description": "The Essential extensions (core) for Developers",
     "icon": "img/essentials.png",
     "galleryBanner": {
         "color": "#6B8E23",
