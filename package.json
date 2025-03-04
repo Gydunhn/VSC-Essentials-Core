@@ -38,6 +38,7 @@
         "Markdown",
         "markdownlint",
         "Markdown All in One",
+        "Markdown Checkboxes",
         "Terminal",
         "Status Bar",
         "Terminal",
@@ -50,7 +51,7 @@
         "Emojisense",
         "Gydunhn"
     ],
-    "version": "0.3.4",
+    "version": "0.3.5",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -63,6 +64,7 @@
         "DavidAnson.vscode-markdownlint",
         "bierner.emojisense",
         "bierner.markdown-emoji",
+        "bierner.markdown-checkbox",
         "DotJoshJohnson.xml",
         "Gruntfuggly.todo-tree",
         "mhutchie.git-graph",
