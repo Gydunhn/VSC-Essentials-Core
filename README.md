@@ -10,8 +10,6 @@ This **Detailed** version of the extension pack is for a series of very specific
 
 ## Reasons
 
-The "Original & Complete" version of [VSC Essentials] extension pack was made to automate and standardize the setup phase of the development environment for Visual Studio Code, to have the same set of extensions, use the same id settings and file format everyone works on together.
-
 New Purpose of "VSC Essentials Core"
 
 We have given a new purpose to the "VSC Essentials Core" extension to better align with the hierarchy of extension packages used by our team in Visual Studio Code (VSCode) development.
