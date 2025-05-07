@@ -179,5 +179,17 @@
     },
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
-    }
+    },
+    // Output Colorizer Settings
+    "outputColorizer.colorizeErrors": true,
+    "outputColorizer.colorizeWarnings": true,
+    
+    // Path Intellisense Settings
+    "path-intellisense.showHiddenFiles": true,
+    
+    // Format Toggle Settings
+    "formattingToggle.affects": [
+        "editor.formatOnPaste",
+        "editor.formatOnType"
+    ]
 }
