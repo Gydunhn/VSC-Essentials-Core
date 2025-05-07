@@ -31,76 +31,44 @@ It is imperative that the settings be added to settings.json, inside the ".vscod
     /**
      * Core Basic VSC Essentials Config
      */
-    "extensions.ignoreRecommendations": true,
+    // Editor Native Settings
+    "editor.fontLigatures": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.indentation": true,
+    "editor.indentSize": 2,
     "editor.tabCompletion": "on",
     "editor.showDeprecated": true,
+    "editor.autoIndent": "full",
     "editor.rulers": [
-        80
+        140
     ],
-    "editor.guides.bracketPairs": "active",
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "workbench.tree.expandMode": "singleClick",
-    "workbench.tree.renderIndentGuides": "always",
-    "workbench.tree.indent": 6,
-    "editor.formatOnType": false,
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 145,
+    // Markdown Related Settings
     "[markdown]": {
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[xml]": {
-        "editor.defaultFormatter": "DotJoshJohnson.xml"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "[less]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "[scss]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "javascript.format.enable": true,
-    "javascript.format.semicolons": "insert",
-    "javascript.preferences.quoteStyle": "single",
-    "typescript.format.enable": true,
-    "typescript.format.semicolons": "insert",
-    "typescript.preferences.quoteStyle": "single",
-    "css.hover.documentation": true,
-    "css.lint.important": "warning",
-    "css.lint.importStatement": "warning",
-    "less.hover.documentation": true,
-    "less.lint.important": "warning",
-    "less.lint.importStatement": "warning",
-    "scss.hover.documentation": true,
-    "scss.lint.important": "warning",
-    "scss.lint.importStatement": "warning",
-    "html.hover.documentation": true,
     "markdownlint.config": {
         "default": true,
         "MD001": false,
         "MD010": false,
+        "MD022": false,
         "MD024": false,
         "MD025": false
     },
-    /**
-     * * Core Detailed VSC Essentials Config
-     */
+    "emojisense.languages": {
+        "plaintext": false,
+        "markdown": true,
+        "json": true,
+        "scminput": true
+    },
+    // Todo Tree Settings
     "todo-tree.tree.showCountsInTree": true,
     "todo-tree.general.statusBar": "top three",
     "todo-tree.general.showIconsInsteadOfTagsInStatusBar": true,
@@ -139,6 +107,7 @@ It is imperative that the settings be added to settings.json, inside the ".vscod
             "fontWeight": "bold"
         }
     },
+    // Better Comments Settings
     "better-comments.multilineComments": true,
     "better-comments.tags": [
         {
@@ -222,7 +191,24 @@ It is imperative that the settings be added to settings.json, inside the ".vscod
             "bold": true,
             "italic": false
         }
-    ]
+    ],
+    // Terminal in Status Bar Settings
+    "terminal-in-status-bar.statusBarAlignment": "right",
+    "terminal-in-status-bar.statusBarPriority": 10000,
+    // indent-rainbow Settings
+    "indentRainbow.ignoreErrorLanguages": [
+        "haskell"
+    ],
+    // Bookmarks Settings
+    "bookmarks.saveBookmarksInProject": false,
+    "bookmarks.showCommandsInContextMenu": true,
+    // Native JSON Settings
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
 }
 
 ```
