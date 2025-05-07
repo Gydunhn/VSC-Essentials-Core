@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2025-05-07
+
+### Added
+
+* Bookmarks, by Alessandro Fragnani.
+* indent-rainbow, by oderwat.
+* Error Lens, by usernamehw.
+* Output Colorizer, by IBM.
+
+### Removed
+
+* XML Tools extension has been moved to VSC-Essentials package.
+* Git-related extensions (Git Graph, GitLens, Git History, gitignore) have been moved to VSC-Essentials package.
+
 ## [0.3.5] - 2025-03-04
 
 ### Added
@@ -72,7 +86,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * XML Tools, By Josh Johnson.
 
 [Unreleased]: https://github.com/Gydunhn/VSC-Essentials/tree/develop
-[0.3.2]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.2
+[0.4.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.4.0
+[0.3.5]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.5
 [0.3.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.1
 [0.3.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.0
 [0.2.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.2.1
