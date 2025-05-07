@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2025-05-07
+
+### Added
+
+* Path Intellisense, by Christian Kohler - Smart autocompletion for file paths
+* Formatting Toggle, By tombonnike - Quick formatting control from the status bar
+
 ## [0.4.1] - 2025-05-07
 
 ### Changed
@@ -91,13 +98,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * markdownlint, By David Anson.
   * XML Tools, By Josh Johnson.
 
-[Unreleased]: https://github.com/Gydunhn/VSC-Essentials/tree/develop
-[0.4.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.4.1
-[0.4.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.4.0
-[0.3.5]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.5
-[0.3.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.1
-[0.3.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.3.0
-[0.2.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.2.1
-[0.2.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.2.0
-[0.1.1]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.1.1
-[0.1.0]: https://github.com/Gydunhn/VSC-Essentials/releases/tag/0.1.0
+[Unreleased]: https://github.com/Gydunhn/VSC-Essentials-Core/tree/develop
+[0.5.0]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.5.0
+[0.4.1]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.4.1
+[0.4.0]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.4.0
+[0.3.5]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.3.5
+[0.3.1]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.3.1
+[0.3.0]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.3.0
+[0.2.1]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.2.1
+[0.2.0]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.2.0
+[0.1.1]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.1.1
+[0.1.0]: https://github.com/Gydunhn/VSC-Essentials-Core/releases/tag/0.1.0

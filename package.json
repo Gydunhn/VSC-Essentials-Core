@@ -14,11 +14,22 @@
     },
     "keywords": [
         "VSC",
+        "Code",
         "VSCode",
         "Visual Studio",
         "Visual Studio Code",
         "VSC Essentials",
         "Essentials",
+        "Esenciales",
+        "Essenciais",
+        "Essentiel",
+        "Essenziali",
+        "Essentielles",
+        "Esencajoj",
+        "必需品",
+        "골자",
+        "अत्यावश्यकम्",
+        "ملزومات",
         "Markdown",
         "markdownlint",
         "Markdown All in One",
@@ -32,9 +43,11 @@
         "Error Lens",
         "Output Colorizer",
         "Terminal Status Bar",
+        "Path Intellisense",
+        "Format Toggle",
         "Gydunhn"
     ],
-    "version": "0.4.1",
+    "version": "0.5.0",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.35.0"
@@ -54,6 +67,8 @@
         "alefragnani.Bookmarks",
         "oderwat.indent-rainbow",
         "usernamehw.errorlens",
-        "IBM.output-colorizer"
+        "IBM.output-colorizer",
+        "christian-kohler.path-intellisense",
+        "tombonnike.vscode-status-bar-format-toggle"
     ]
 }
